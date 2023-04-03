@@ -6,5 +6,5 @@ Currently, I am studying web development and starting a degree in Design. I inte
 
 <div>
   <a href="https://github.com/leospadim">
-  <img src="https://github-readme-stats-leospadim.vercel.app/api/top-langs/?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=true&card_width=350" />
+  <img src="https://github-readme-stats-leospadim.vercel.app/api/top-langs/?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=false&card_width=500" />
 </div>
