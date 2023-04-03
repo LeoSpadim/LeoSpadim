@@ -4,9 +4,10 @@ Graduated in Digital Games, I work on my independent game projects but also deve
 
 Currently, I am studying web development and starting a degree in Design. I intend to not only master website creation but also become a specialist in UI & UX Design.
 
-  <a href="https://github.com/leospadim">
-    <img aling="center" src="https://github-readme-stats-leospadim.vercel.app/api/top-langs/?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=false&card_width=500" />
-  </a>
-  <a href="https://github.com/leospadim">
-    <p aling="center">most</p>
-  </a>
+<div>
+  <h3>Most Used Languages: </h3>
+  <img src="https://github-readme-stats-leospadim.vercel.app/api/top-langs/?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=true&hide_title=true&card_width=400" />
+</div>
+<div>
+  <h3 style="color: #2f80ed; font-size: 24px">Most Used Tools: </h3>
+</div>
