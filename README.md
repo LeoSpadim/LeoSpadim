@@ -24,5 +24,5 @@ Currently, I am studying web development and starting a degree in Design. I inte
 
 <div>
   <a href="mailto:leospadim@hotmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=+5514998574325"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5514998574325"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </div>
