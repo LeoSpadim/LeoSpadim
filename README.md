@@ -4,7 +4,7 @@
 
 🌱 Currently, I am studying web development and starting a degree in Design. 
 
-My goal is to diversify my technical knowledge to become a more complete and versatile professional while simultaneously honing my expertise in game development. 
+My goal is to diversify my technical knowledge to become a more complete and versatile professional while simultaneously honing my skillset in game development. 
 
 I intend to become a specialist in UI & UX Design, as it is crucial for creating engaging and user-friendly game interfaces. Studying Design will also allow me to improve my skills as a 3D artist for games, enabling me to create better game visuals and aesthetics.
 
