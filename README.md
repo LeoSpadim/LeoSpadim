@@ -7,7 +7,7 @@
 ##
 
 ### Most Used Languages:
-<img src="https://readme-status-git-main-leospadim.vercel.app/api/top-langs/?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=true&hide_title=true&card_width=350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=6&hide_border=true&hide_title=true&card_width=350" />
   
 ### Most Used Tools:
 <div>
