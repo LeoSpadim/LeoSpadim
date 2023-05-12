@@ -8,7 +8,7 @@
      <h3>Languages & Tools:</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
   </div>
-  <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -19,5 +19,7 @@
 ##
 
 <div>
-  <h3>Contact me: <a href="mailto:leospadim@hotmail.com">E-mail</a> | <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a></h3>
+  <h3>Contact me:</h3>
+  <a href="mailto:leospadim@hotmail.com"></a>
+  <a href="https://api.whatsapp.com/send?phone=5514998574325"></a>
 </div>
