@@ -20,5 +20,5 @@
 
 <div>
   <h3>Contact me:</h3>
-  <a href="mailto:leospadim@hotmail.com">Email</a> | <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a>
+  <a href="mailto:leospadim@hotmail.com">E-mail</a> | <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a>
 </div>
