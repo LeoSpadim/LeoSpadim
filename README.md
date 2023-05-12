@@ -17,7 +17,9 @@
   <h3>Portfolio at:</h3> 
   <a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a>
 </div>
+
 ##
+
 <div>
   <h3>Contact me:</h3>
   <a href="mailto:leospadim@hotmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
