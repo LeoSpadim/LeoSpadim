@@ -5,10 +5,8 @@
 </div>
 <br>
 <div>
-  <h3>Most Used Languages:</h3>
+  <h3>Languages & Tools:</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
-  
-  <h3>Most Used Tools:</h3><br>
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
