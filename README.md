@@ -16,8 +16,9 @@
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-
-### Portfolio at: <a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a>
+  
+### Portfolio at: 
+<a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a>
 
 ##
 
