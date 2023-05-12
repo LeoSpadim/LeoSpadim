@@ -7,12 +7,12 @@
   <h3>Most Used Languages:</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
   
-  <h3>Most Used Tools:</h3>
+  <h3>Most Used Tools:</h3><br>
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <br>
+  <br><br>
   <h3>Portfolio at:</h3>
   <a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a>
 </div>
