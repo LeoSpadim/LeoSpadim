@@ -19,5 +19,5 @@
 ##
 
 <div>
-  <p>Contact me: <a href="mailto:leospadim@hotmail.com">E-mail</a> | <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a></p>
+  <h3>Contact me: <a href="mailto:leospadim@hotmail.com">E-mail</a> | <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a></h3>
 </div>
