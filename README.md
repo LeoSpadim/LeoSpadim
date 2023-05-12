@@ -20,6 +20,6 @@
 
 <div>
   <h3>Contact me:</h3>
-  <a href="mailto:leospadim@hotmail.com"><img align="center" height="32" width="80" src="https://cdn.simpleicons.org/mail.ru/EA4335" /></a>
+  <a href="mailto:leospadim@hotmail.com"><img align="center" height="16" width="16" src="https://cdn.simpleicons.org/mail.ru/EA4335" />E-mail</a>
   <a href="https://api.whatsapp.com/send?phone=5514998574325"><img align="center" height="32" width="80" src="https://cdn.simpleicons.org/whatsapp/25D366" /></a>
 </div>
