@@ -12,7 +12,7 @@
 </div><br>
 <h3>Portfolio:</h3>
 <div>
-  <a href="https://leospadim.itch.io/"><img align="center" height="40" width="80" src="https://cdn.simpleicons.org/itch.io/FA5C5C" /></a>
+  <a href="https://leospadim.itch.io/"><img align="center" height="80" width="80" src="https://cdn.simpleicons.org/itch.io/FA5C5C" /></a>
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/artstation/13AFF0" />
 </div>
 
