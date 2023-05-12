@@ -20,6 +20,6 @@
 
 <div>
   <h3>Contact me:</h3>
-  <a href="mailto:leospadim@hotmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5514998574325"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:leospadim@hotmail.com"></a>
+  <a href="https://api.whatsapp.com/send?phone=5514998574325"></a>
 </div>
