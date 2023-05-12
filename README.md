@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
   </div>
   <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" />
-  <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/unreal.svg" />
+  <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/unrealengine.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img align="center" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <br><br>
