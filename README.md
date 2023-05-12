@@ -8,7 +8,7 @@
      <h3>Languages & Tools:</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
   </div>
-  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unity/696969" />
+  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unity/F2F2F2" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/blender/F5792A" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unrealengine/242B66" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
