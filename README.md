@@ -11,7 +11,7 @@
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
 </div><br>
 <h3>Portfolio:</h3>
-<img align="center" height="40" width="80" src="https://cdn.simpleicons.org/itchio/FA5C5C" />
+<img align="center" height="40" width="80" src="https://cdn.simpleicons.org/itch.io/FA5C5C" />
 <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
 
 ##
