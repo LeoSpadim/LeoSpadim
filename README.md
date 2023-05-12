@@ -20,5 +20,4 @@
 
 <h3>Contact me:</h3>
 <a href="mailto:leospadim@hotmail.com"><img align="center" height="16" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" />E-mail</a>
-<p>|</p>
 <a href="https://api.whatsapp.com/send?phone=5514998574325"><img align="center" height="16" width="32" src="https://cdn.simpleicons.org/whatsapp/25D366" />Whatsapp</a>
