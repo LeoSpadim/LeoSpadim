@@ -9,8 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
   </div>
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unity/696969" />
-  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
-  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/blender/F5792A" />
+  <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unrealengine/0E1128" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
   <br><br>
   <h3>Portfolio at: <a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a></h3> 
