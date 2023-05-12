@@ -11,7 +11,7 @@
   <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" />
   <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/blender.svg" />
   <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/unrealengine.svg" />
-  <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/react.svg" />
+  <img align="center" height="40" width="80" src="https://unpkg.com/simple-icons@v8/icons/react.svg/61dafb" />
   <br><br>
   <h3>Portfolio at: <a href="https://leospadim.itch.io/">Itch.io</a> | <a href="https://leospadim.artstation.com/">Artstation</a></h3> 
 </div>
