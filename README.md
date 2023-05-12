@@ -1,10 +1,8 @@
-<h2>👋 Hi there, I'm Leo, an indie game developer and 3D artist!</h2>
-
-💼 Graduated in Digital Games, I work on my independent game projects but also develop for other companies. In addition to programming, I also dedicate myself to 3D art,  sculpture, and animation for games.
-
-🌱 Currently, I am studying web development and starting a degree in Design. My goal is to diversify my technical knowledge to become a more complete and versatile professional while simultaneously honing my skillset in game development. Studying Design will also allow me to improve my skills as a 3D artist for games, enabling me to create better game visuals and aesthetics.
-
-##
+<div>
+  <h2>👋 Hi there, I'm Leo, an indie game developer and 3D artist!</h2>
+  <p>💼 Graduated in Digital Games, I work on my independent game projects but also develop for other companies. In addition to programming, I also dedicate myself to 3D art,  sculpture, and animation for games.</p>
+  <p>🌱 Currently, I am studying web development and starting a degree in Design. My goal is to diversify my technical knowledge to become a more complete and versatile professional while simultaneously honing my skillset in game development. Studying Design will also allow me to improve my skills as a 3D artist for games, enabling me to create better game visuals and aesthetics.</p>
+</div>
 
 ### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
