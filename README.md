@@ -9,8 +9,10 @@
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/blender/F5792A" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unrealengine/242B66" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
-</div>
+</div><br>
 <h3>Portfolio:</h3>
+<img align="center" height="40" width="80" src="https://cdn.simpleicons.org/itchio/FA5C5C" />
+<img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
 
 ##
 
