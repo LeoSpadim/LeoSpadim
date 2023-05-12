@@ -20,6 +20,6 @@
 
 <div>
   <h3>Contact me:</h3>
-  <a href="mailto:leospadim@hotmail.com"></a>
-  <a href="https://api.whatsapp.com/send?phone=5514998574325"></a>
+  <a href="mailto:leospadim@hotmail.com">Email</a>
+  <a href="https://api.whatsapp.com/send?phone=5514998574325">Whatsapp</a>
 </div>
