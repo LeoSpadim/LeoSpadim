@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Leo, an indie game developer and 3D artist!
+<h2>👋 Hi there, I'm Leo, an indie game developer and 3D artist!</h2>
 
 💼 Graduated in Digital Games, I work on my independent game projects but also develop for other companies. In addition to programming, I also dedicate myself to 3D art,  sculpture, and animation for games.
 
