@@ -8,9 +8,8 @@
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/blender/F5792A" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/unrealengine/242B66" />
   <img align="center" height="40" width="80" src="https://cdn.simpleicons.org/react/61DAFB" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" />
-<br>
+</div><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leospadim&layout=compact&theme=transparent&hide=hlsl,shaderlab&langs_count=8&hide_border=true&hide_title=true&card_width=350" /><br>
 <h3>Portfolio:</h3>
 <div>
   <a href="https://leospadim.itch.io/"><img align="center" height="40" width="80" src="https://cdn.simpleicons.org/itch.io/FA5C5C" /></a>
